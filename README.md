@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://github.com/KaminoontY/KaminoontY/blob/main/1362914_original.gif"  alt="animated" />
+  <img width="600" src="https://github.com/KaminoontY/KaminoontY/blob/main/2024-08-04_15-52-34.png"  alt="animated" />
 </p>
 
 ### <p align="center">Привет, меня зовут Иван! 👋</p>
@@ -11,6 +11,7 @@
 </div>
 
 * Занимаюсь аналитикой данных 📈
+* Оформлением презентаций (инфографики) ⇧
 * Готов к сотрудничеству 🤝
 * Мои проекты 👇: 
 
