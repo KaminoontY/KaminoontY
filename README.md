@@ -16,7 +16,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Название  (__[github](https://github.com/KaminoontY/Project_1)__)|Описание|pandas, numpy, seaborn,  matplotlib, scipy, requests|
+|Проект 1  Исследование новой механики оплаты услуг на сайте (__[github](https://github.com/KaminoontY/Project_1)__)|Анализ итогов эксперемета A/B–тестирования и ответ на вопрос стоит ли запускать новую механику оплаты на всех пользователей. Выбор мтерик для оценки результата (конверсия в покупку, средний чек).|pandas, numpy, seaborn,  matplotlib, pingouin, scipy, requests|
+|Проект 2  Приложение доставки (__[github](https://github.com/KaminoontY/Project_1)__)|Проверка эффективности новой системы рекомендаций по средствам A/B–тестирования. Оценка влияния на отмену заказов, количество заказов, размер выручки, размер потребительской корзины|pandas, numpy, seaborn,  matplotlib, pingouin, scikit_posthocs, scipy, requests|
 
 
 <hr>
