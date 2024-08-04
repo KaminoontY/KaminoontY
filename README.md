@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://github.com/KaminoontY/KaminoontY/blob/main/2024-08-04_15-52-34.png"  alt="animated" />
+  <img width="600" src="https://github.com/KaminoontY/KaminoontY/blob/main/2024-08-04_15-52-34.png"   />
 </p>
 
 ### <p align="center">Привет, меня зовут Иван! 👋</p>
