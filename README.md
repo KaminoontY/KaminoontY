@@ -5,8 +5,8 @@
 ### <p align="center">Привет, меня зовут Иван! 👋</p>
 
 <div align="center">
-  <a href="https://t.me/KaminoontY">
-    <img src="https://kalendarnagod.ru/wp-content/uploads/2023/12/bd382530e7a8ad3bd85897dd2ff9594d.jpg" alt="Telegram" width="120" height="50">
+  <a href="https://t.me/Ykimenko_Ivan">
+    <img src="https://static34.tgcnt.ru/posts/_0/ce/ce563528c3fafd881e5535fb79233f1c.jpg" alt="Telegram" width="120" height="50">
   </a>
 </div>
 
